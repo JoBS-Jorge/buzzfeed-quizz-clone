@@ -1,0 +1,98 @@
+{
+  "title":"Descubra agora se você é um PSICOPATA.",
+  "questions":[
+    {
+      "id":1,
+      "question": "Nunca me sinto culpado por minhas atitudes",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Os meus problemas são sempre culpa dos outros",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Já cometi alguns crimes na minha vida",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Me incomoda ver uma pessoa chorar e não poder ajudar",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"B"},
+        {"id": 2, "name":"FALSO", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Sou emocional",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"B"},
+        {"id": 2, "name":"FALSO", "alias":"A"}
+      ]
+    },
+    {
+      "id":6,
+      "question": "Evito assumir responsabilidades",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":7,
+      "question": "Me sinto mal enganando as pessoas",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":8,
+      "question": "Não gosto de me comprometer em relações",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":9,
+      "question": "Eu minto para fazer as coisas mais fáceis",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    }
+    ,
+    {
+      "id":10,
+      "question": "Por vezes, engano pessoas para fazerem ou não fazerem certas coisas",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    },
+    {
+      "id":11,
+      "question": "Algumas pessoas merecem que eu as engane, por serem muito bobas",
+      "options":[
+        {"id": 1, "name":"VERDADEIRO", "alias":"A"},
+        {"id": 2, "name":"FALSO", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria PSICOPATA!",
+    "B": "Fique tranquilo provavelmente você não tem tende a ser Psicopata!"
+  }
+}
